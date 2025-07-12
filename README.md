@@ -1,4 +1,4 @@
-# 🚀 PresyoWise Flutter App – Setup Instructions
+# 🚀 Flutter Starter App – Setup Instructions
 
 This guide helps you set up the PresyoWise project with Supabase authentication (Google & Facebook) from scratch.
 
@@ -9,8 +9,8 @@ This guide helps you set up the PresyoWise project with Supabase authentication 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/presyowise.git
-   cd presyowise
+   git clone https://github.com/your-username/flutter-clean-supabase-starter.git
+   cd flutter-clean-supabase-starter
    ```
 
 2. **Install dependencies:**
