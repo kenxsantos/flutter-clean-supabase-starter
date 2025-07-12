@@ -1,6 +1,6 @@
 # 🚀 Flutter Starter App – Setup Instructions
 
-This guide helps you set up the PresyoWise project with Supabase authentication (Google & Facebook) from scratch.
+This guide helps you set up the starter app project with Supabase authentication (Google & Facebook) from scratch.
 
 ---
 
