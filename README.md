@@ -48,8 +48,6 @@ SUPABASE_ANON_KEY=your-anon-key
 GOOGLE_WEB_CLIENT_ID=your-google-web-client-id
 GOOGLE_IOS_CLIENT_ID=your-google-ios-client-id
 
-FACEBOOK_CLIENT_ID=your-facebook-app-id
-FACEBOOK_REDIRECT_URI=https://your-project.supabase.co/auth/v1/callback
 ```
 
 ---
@@ -147,6 +145,7 @@ For Facebook:
 ## 📦 Run the App
 
 ```bash
+flutter pub get
 flutter run
 ```
 
